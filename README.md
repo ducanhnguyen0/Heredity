@@ -38,4 +38,4 @@ The normalize function updates a dictionary of probabilities such that each prob
    ```
    python heredity.py data/'dataset file'
    ```
-   (You can use either `family0` or `family1` or `family2` for the dataset file)
+   (You can use either `family0.csv` or `family1.csv` or `family2.csv` for the dataset file)
